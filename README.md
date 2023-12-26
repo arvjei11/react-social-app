@@ -9,6 +9,7 @@ This prototype serves as a testament to my ability to create a fully functional 
 ## Key Features
 
 ### 1. Complete Login Authentication System
+![SS1 Project Arvind Jei](https://github.com/arvjei11/react-social-app/assets/50538140/3d21e1e8-752c-4eb6-a7d4-dcb3fe685e18)
 
 The heart of this project lies in its secure and user-friendly authentication system. Users can register, log in, and enjoy a personalized experience within the app. This feature emphasizes the importance of user privacy and data security.
 
@@ -17,6 +18,7 @@ The heart of this project lies in its secure and user-friendly authentication sy
 Recognizing the significance of performance optimization, I dedicated efforts to refine and optimize API endpoints. This iterative process resulted in a remarkable <span style="font-size: 1.2em;">10%</span> reduction in data retrieval time, ensuring a snappy and responsive user interface.
 
 ### 3. React.js for Dynamic User Interface
+![SS2 Project Arvind Jei](https://github.com/arvjei11/react-social-app/assets/50538140/d01b71eb-4cf9-45d5-8d7c-5dc45e5b86d5)
 
 The front-end of the application is powered by React.js, providing a dynamic and interactive user interface. From seamless page transitions to real-time updates, React.js plays a pivotal role in enhancing the overall user experience.
 
